@@ -18,7 +18,7 @@ $(document).ready(function () {
       author: _author,
     };
 
-    var apiUrl = "bytesotech.cloud/ai4som/api/data";
+    var apiUrl = "https://bytesotech.cloud/ai4som/api/data";
     var apiKey = "cde56ebb4256639c0904f97ff4dda60a602c1952";
 
     $.ajax({
